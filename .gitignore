@@ -1,0 +1,4 @@
+commands/__pycache__/
+helpers/__pycache__/
+returnorgsdeps
+*.csv
